@@ -1,0 +1,11 @@
+body{
+    margin:5% 15%;
+}
+
+#projectName{
+    float:left;
+}
+
+#navigation{
+    float:right;
+}
