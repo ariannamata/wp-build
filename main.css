@@ -9,3 +9,14 @@ body{
 #navigation{
     float:right;
 }
+
+.signUp{
+    text-align: center;
+    margin-top: 5%;
+    padding:10% 5% ;
+}
+
+.subheadings{
+    margin-top:5% ;
+    margin-bottom:5% ;
+}
