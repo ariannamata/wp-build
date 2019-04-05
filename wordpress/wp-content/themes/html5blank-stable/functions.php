@@ -112,7 +112,6 @@ function html5blank_conditional_scripts()
         wp_enqueue_script('scriptname'); // Enqueue it!
     }
 }
-
 // Load HTML5 Blank styles
 function html5blank_styles()
 {
